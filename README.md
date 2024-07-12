@@ -36,3 +36,7 @@ https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%
 
 완전탐색(Brute Force) & 시뮬레이션
 실전 문제 풀이
+
+알고리즘 설명 링크 모음
+
+https://github.com/tony9402/baekjoon/blob/main/link_for_study.md
